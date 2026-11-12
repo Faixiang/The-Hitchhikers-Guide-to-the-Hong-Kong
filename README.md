@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Faixiang/The-Hitchhikers-Guide-to-the-Hong-Kong/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-TBD-lightgrey.svg" /></a>
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
   <img alt="Status" src="https://img.shields.io/badge/status-planning-orange.svg" /></a>
   <a href="https://github.com/Faixiang/The-Hitchhikers-Guide-to-the-Hong-Kong/issues">
     <img alt="PRs welcome!" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" /></a>
@@ -79,7 +79,9 @@
 
 ## 授權
 
-尚未指定。在指定之前，一切權利保留。本專案為非商業用途。
+本專案以 [MIT License](./LICENSE) 釋出。 © 2026 Faixiang
+
+倉庫名的致敬性質不影響本專案的授權範圍；惟專案內容（攻略文案、點位資料）若引用第三方來源，其權利仍屬原權利人。
 
 倉庫名致敬 Douglas Adams《The Hitchhiker's Guide to the Galaxy》，僅作個人專案的命名趣味，與該作品及權利人無任何關聯。
 
